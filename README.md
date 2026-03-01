@@ -36,18 +36,6 @@ This EDA answers questions like:
 
 > Replace these bullets with the exact numbers from your final charts once you lock the final analysis.
 
----
-
-## Repository Structure
-
-.
-├── TSF TASK#4.ipynb            # Main EDA notebook  
-├── assets/                     # (Add) plot screenshots for README  
-├── data/                       # (Optional) local data folder (ignored in git)  
-├── requirements.txt            # (Add) python dependencies  
-└── README.md  
-
----
 
 ## How to Run Locally
 
